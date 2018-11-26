@@ -7,5 +7,6 @@ public class Myfirst {
         System.out.println("...............");
         System.out.println("...............");
         System.out.println("...............");
+        System.out.println("--> "+2);
     }
 }
